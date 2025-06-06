@@ -14,15 +14,6 @@ Escúchanos en línea desde cualquier parte del mundo:
 - Facebook: [Costa Radio Barranquilla](https://www.facebook.com/profile.php?id=61560653450154)
 - YouTube: [@costaradiobarranquilla](https://www.youtube.com/@costaradiobarranquilla)
 
-## 📦 Archivos incluidos
-
-- `index.html`: Código HTML para incrustar el reproductor en tu página web o Wix.
-- `icon_square.png`: Logo oficial en formato cuadrado (512x512 px).
-- `icon_round.png`: Logo oficial en formato redondo (512x512 px).
-- `manifest.json`: (opcional) Archivo de manifiesto para apps PWA.
-- `favicon.ico`: (opcional) Icono para pestañas del navegador.
-
-## ⚙️ Cómo integrar en tu web
 
 ### Opción 1: HTML Embebido
 ```html
@@ -32,20 +23,7 @@ Escúchanos en línea desde cualquier parte del mundo:
 </audio>
 ```
 
-### Opción 2: App React
-Puedes usar la app web móvil desarrollada en React para una mejor experiencia de usuario.
 
-## 💡 Consejo
-
-Te recomendamos registrar tu emisora en plataformas de streaming como:
-
-- [Radio Garden](https://radio.garden)
-- [myTuner Radio](https://mytuner-radio.com)
-- [TuneIn](https://tunein.com)
-- [Radio.net](https://www.radio.net)
-- [Zeno.fm](https://zeno.fm)
-
-Así mejorarás tu alcance y audiencia.
 
 ## 🛠 Desarrollo
 
