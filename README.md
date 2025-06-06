@@ -15,15 +15,6 @@ Escúchanos en línea desde cualquier parte del mundo:
 - YouTube: [@costaradiobarranquilla](https://www.youtube.com/@costaradiobarranquilla)
 
 
-### Opción 1: HTML Embebido
-```html
-<audio controls autoplay>
-  <source src="https://stream.zeno.fm/hcdc0qxgafmuv" type="audio/mpeg">
-  Tu navegador no soporta audio HTML5.
-</audio>
-```
-
-
 
 ## 🛠 Desarrollo
 
